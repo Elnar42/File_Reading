@@ -1,0 +1,19 @@
+Department: HR
+Average Salary: 65750.0
+--------------------------------
+Department: IT
+Average Salary: 50333.333333333336
+--------------------------------
+Department: SALES
+Average Salary: 65714.28571428571
+--------------------------------
+Department: MARKETING
+Average Salary: 57000.0
+--------------------------------
+Department: FINANCE
+Average Salary: 74909.09090909091
+--------------------------------
+Department: UNKNOWN
+Average Salary: 90000.0
+--------------------------------
+

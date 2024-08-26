@@ -1,0 +1,56 @@
+HR :
+Number of employee: 8
+Average salary: 65750.0
+Employee with max salary: Daniel Martinez
+Employee with min salary: Jane Smith
+Average age: 38.5
+Employee with max age: Daniel Martinez
+Employee with min age: Jane Smith
+Employee with min working year: Robert Miller
+Employee with max working year: Daniel Martinez
+------------------------------------------------------
+IT :
+Number of employee: 15
+Average salary: 50333.333333333336
+Employee with max salary: Jennifer Taylor
+Employee with min salary: Diana Sanchez
+Average age: 28.333333333333332
+Employee with max age: Jennifer Taylor
+Employee with min age: Justin Baker
+Employee with min working year: Diana Sanchez
+Employee with max working year: Donna Young
+------------------------------------------------------
+SALES :
+Number of employee: 7
+Average salary: 65714.28571428571
+Employee with max salary: Eric Turner
+Employee with min salary: Matthew Robinson
+Average age: 38.714285714285715
+Employee with max age: Susan Martin
+Employee with min age: Matthew Robinson
+Employee with min working year: Edward Walker
+Employee with max working year: Eric Turner
+------------------------------------------------------
+MARKETING :
+Number of employee: 6
+Average salary: 57000.0
+Employee with max salary: Dorothy King
+Employee with min salary: Brian Lewis
+Average age: 33.166666666666664
+Employee with max age: Dorothy King
+Employee with min age: Larry Carter
+Employee with min working year: Brian Lewis
+Employee with max working year: Joseph Harris
+------------------------------------------------------
+FINANCE :
+Number of employee: 11
+Average salary: 74909.09090909091
+Employee with max salary: James Moore
+Employee with min salary: Charles Thompson
+Average age: 43.0
+Employee with max age: Anthony Rodriguez
+Employee with min age: Charles Thompson
+Employee with min working year: Charles Thompson
+Employee with max working year: Anthony Rodriguez
+------------------------------------------------------
+

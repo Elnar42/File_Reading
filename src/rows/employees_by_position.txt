@@ -1,0 +1,22 @@
+Position: INTERN
+Number Of Employee: null
+--------------------------------
+Position: JUNIOR
+Number Of Employee: 15
+--------------------------------
+Position: SENIOR
+Number Of Employee: 15
+--------------------------------
+Position: MANAGER
+Number Of Employee: 17
+--------------------------------
+Position: DIRECTOR
+Number Of Employee: null
+--------------------------------
+Position: EXECUTIVE
+Number Of Employee: 3
+--------------------------------
+Position: UNKNOWN
+Number Of Employee: null
+--------------------------------
+
